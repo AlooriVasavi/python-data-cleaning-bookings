@@ -1,0 +1,51 @@
+booking_id,customer_name,age,booking_amount,booking_date
+1001,Aarav Sharma,28,25000,2026-10-01
+1002,Priya Nair,-5,999999,15/10/2026
+1003,,34,,2026-13-45
+1004,Rohan Verma,twenty-nine,32000,2026-11-02
+1005,Ananya Rao,41,18500,2026-11-05
+1006,Vikram Singh,150,-12000,2026-11-06
+1007,Neha Gupta,26,27500,2026-11-07
+1008,Siddharth Joshi,,41000,08-11-2026
+1009,Meera Krishnan,31,abc,2026-11-09
+1010,Kabir Mehta,-12,19000,2026/11/10
+1011,Anjali Deshmukh,29,,2026-11-11
+1012,,45,52000,2026-11-12
+1013,Arjun Reddy,22,-4500,2026-11-13
+1014,Pooja Kulkarni,thirty-five,28900,32/11/2026
+1015,Karan Malhotra,38,NULL,2026-11-15
+1016,Divya Menon,27,31000,2026-11-16
+1017,Harsh Vardhan,0,46000,2026-11-17
+1018,Sneha Iyer,,15500,18-11-2026
+1019,Nikhil Tiwari,33,NaN,2026-11-19
+1020,Ritu Choudhary,205,22400,2026-11-20
+1021,,24,-800,2026-11-21
+1022,Aditya Bansal,36,64000,2026/11/22
+1023,Kavita Dubey,forty,39500,2026-11-23
+1024,Manish Agarwal,29,,2026-11-24
+1025,Swati Bhatia,-8,21000,2026-14-10
+1026,Tarun Gill,47,888888,2026-11-26
+1027,Nandini Hegde,30,17800,27/11/2026
+1028,,32,49200,2026-11-28
+1029,Deepak Yadav,19,-3200,2026-11-29
+1030,Shruti Sawant,twenty-four,35600,2026-11-30
+1031,Pranav Joshi,42,NaN,2026-12-01
+1032,Pallavi Kaul,25,29400,2026-12-02
+1033,Gaurav Kapoor,140,12500,03-12-2026
+1034,Ishita Sen,,NULL,2026-12-04
+1035,Varun Chawla,37,-1500,2026/12/05
+1036,,29,43800,2026-12-06
+1037,Komal Rathore,forty-three,error,2026-12-07
+1038,Suresh Babu,-3,26700,2026-12-08
+1039,Alisha Mirza,31,,2026-12-09
+1040,Mayank Saxena,23,58900,2026-15-01
+1041,Tanvi Oberoi,185,19800,11/12/2026
+1042,Rajeshwari Pillai,35,-9500,2026-12-12
+1043,,28,33200,2026-12-13
+1044,Yashwant Rao,thirty,NaN,2026-12-14
+1045,Simran Kaur,46,71500,2026-12-15
+1046,Akshay Kulkarni,-1,24300,2026/12/16
+1047,Bhavana Shetty,32,,2026-12-17
+1048,Dinesh Prajapati,51,16400,31/02/2026
+1049,Meenakshi Nair,27,-600,2026-12-19
+1050,Prateek Solanki,twenty-seven,47900,2026-12-20
